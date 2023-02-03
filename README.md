@@ -1,9 +1,8 @@
 ### Olá. Sou o Renan, muito prazer!
 
-- 🔭 Atualmente estudando desenvolvimento Front-End 
-- 🌱 Aprendendo HTML/CSS/JS
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: formado em Geografia
+- 🔭: Atualmente estudando desenvolvimento Front-End 
+- 🌱: Aprendendo HTML/CSS/JS
+- ⚡: formado em Geografia-Licenciatura
 
 
 <div style="display: inline_block"><br>
